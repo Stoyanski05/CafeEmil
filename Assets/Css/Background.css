@@ -20,4 +20,17 @@ header{
     height: 100vh;
     backdrop-filter: blur(7px);
 }
-h1{color: white;}
+h1{
+    color: white;
+    display:inline-block;
+}
+h3{
+    color: white;
+}
+.section,footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
