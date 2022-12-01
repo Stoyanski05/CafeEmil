@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
 
 @import url(Background.css);
 @import url(Menu.css);
+@import url(Maps.css);
+@import url(Variables.css);
+@import url(Base.css);
