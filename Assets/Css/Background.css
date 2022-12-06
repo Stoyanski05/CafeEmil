@@ -18,9 +18,9 @@ body {
 
 .reserve-button {
     display: block;
-    background-color: rgb(172, 3, 37);
-    max-width: 300px;
-    padding: 10px;
+    background-color: rgb(190, 19, 62);
+    max-width: 400px;
+    padding: 20px;
     border-radius: 20px;
     color: white;
     text-decoration: none;
@@ -35,7 +35,7 @@ h1{
 }
 h3{
     color: white;
-    font-size: 1cm;
+    font-size: 15mm;
 }
 footer{
     display: flex;
@@ -43,6 +43,7 @@ footer{
     align-items: center;
     text-align: center;
     min-height: 100vh;
+    color: white;
 }
 h2{
     position: relative;

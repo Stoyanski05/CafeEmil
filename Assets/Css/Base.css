@@ -7,3 +7,18 @@
     font-family: var(--base-font);
     font-size: 0,5cm;
 }
+.gallery{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin: auto;
+}
+.gallery img{
+    width: 500px;
+    height: auto;
+    transition: 0.5s;
+}
+.gallery img:hover{
+    filter: grayscale(80%);
+    transform: scale(1.02);
+}
